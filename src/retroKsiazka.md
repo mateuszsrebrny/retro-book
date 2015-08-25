@@ -42,8 +42,9 @@ Zespół generuje trzy listy:
 
 --- 
 
-Pięcionogi pająk (Mateusz S?)
------------------------------
+Rozgwiazda
+-----------
+\@mateuszsrebrny
 
 Obszary (Tomek Ł?)
 -------------------
